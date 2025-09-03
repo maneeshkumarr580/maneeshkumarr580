@@ -1,6 +1,6 @@
 ## 👨‍💻 **About Me**
 
-Hi! I'm **Maneesh Kumar**, a passionate 💡 **Computer Science student at SZABIST**, currently moving into my **second year**. I've built a strong foundation in **Java** ☕ and **Object-Oriented Programming (OOP)**, and I’m driven by a desire to learn, build, and solve meaningful problems through code.
+Hi! I'm **Maneesh Kumar**, a passionate 💡 **Computer Science student at SZABIST(Main Campus)**, currently moving into my **second year**. I've built a strong foundation in **Java** ☕ and **Object-Oriented Programming (OOP)**, and I’m driven by a desire to learn, build, and solve meaningful problems through code.
 
 I enjoy working with a **problem-solving mindset** 🧠 and have experience in **team leadership** 🤝 through academic and collaborative projects. Whether it's fixing a bug or leading a group effort, I thrive in environments that challenge me to grow and think critically.
 
